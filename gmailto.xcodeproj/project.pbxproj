@@ -21,9 +21,6 @@
 		16DA0EE42BB7103800A631B4 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 16DA0EE32BB7103800A631B4 /* images */; };
 		16DA0EE62BB7103800A631B4 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 16DA0EE52BB7103800A631B4 /* manifest.json */; };
 		16DA0EEA2BB7103800A631B4 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = 16DA0EE92BB7103800A631B4 /* content.js */; };
-		16DA0EEC2BB7103800A631B4 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 16DA0EEB2BB7103800A631B4 /* popup.html */; };
-		16DA0EEE2BB7103800A631B4 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 16DA0EED2BB7103800A631B4 /* popup.css */; };
-		16DA0EF02BB7103800A631B4 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 16DA0EEF2BB7103800A631B4 /* popup.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,9 +65,6 @@
 		16DA0EE32BB7103800A631B4 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		16DA0EE52BB7103800A631B4 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
 		16DA0EE92BB7103800A631B4 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
-		16DA0EEB2BB7103800A631B4 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
-		16DA0EED2BB7103800A631B4 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
-		16DA0EEF2BB7103800A631B4 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
 		16DA0EF12BB7103800A631B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16DA0EF22BB7103800A631B4 /* gmailto_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = gmailto_Extension.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -154,9 +148,6 @@
 				16DA0EE32BB7103800A631B4 /* images */,
 				16DA0EE52BB7103800A631B4 /* manifest.json */,
 				16DA0EE92BB7103800A631B4 /* content.js */,
-				16DA0EEB2BB7103800A631B4 /* popup.html */,
-				16DA0EED2BB7103800A631B4 /* popup.css */,
-				16DA0EEF2BB7103800A631B4 /* popup.js */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -255,13 +246,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				16DA0EEE2BB7103800A631B4 /* popup.css in Resources */,
-				16DA0EEC2BB7103800A631B4 /* popup.html in Resources */,
 				16DA0EE42BB7103800A631B4 /* images in Resources */,
 				16DA0EE62BB7103800A631B4 /* manifest.json in Resources */,
 				16DA0EE22BB7103800A631B4 /* _locales in Resources */,
 				16DA0EEA2BB7103800A631B4 /* content.js in Resources */,
-				16DA0EF02BB7103800A631B4 /* popup.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
