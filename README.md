@@ -23,6 +23,8 @@ While this is a Safari browser extension I'm pretty sure that it'd work with Chr
 
 Click on `mailto:` links and they should open a new compose tab in GMail.
 
+Here's [a mailto link](mailto:alice@example.com?cc=bob@example.com&subject=gmailto%20test) to test it out on. 
+
 ## Attribution
 
 The [Send Email icon](https://icons8.com/icon/71474/send-email) is by [Icons8](https://icons8.com).
