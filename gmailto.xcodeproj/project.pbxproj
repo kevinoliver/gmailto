@@ -67,6 +67,7 @@
 		16DA0EE92BB7103800A631B4 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
 		16DA0EF12BB7103800A631B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16DA0EF22BB7103800A631B4 /* gmailto_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = gmailto_Extension.entitlements; sourceTree = "<group>"; };
+		16DA0EFC2BB7B7BE00A631B4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +91,7 @@
 		16DA0EB42BB7103000A631B4 = {
 			isa = PBXGroup;
 			children = (
+				16DA0EFC2BB7B7BE00A631B4 /* README.md */,
 				16DA0EBF2BB7103100A631B4 /* gmailto */,
 				16DA0EDD2BB7103800A631B4 /* gmailto Extension */,
 				16DA0EBE2BB7103100A631B4 /* Products */,
